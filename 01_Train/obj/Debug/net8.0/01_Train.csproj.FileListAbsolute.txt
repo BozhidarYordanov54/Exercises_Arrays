@@ -1,0 +1,15 @@
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/01_Train/bin/Debug/net8.0/01_Train
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/01_Train/bin/Debug/net8.0/01_Train.deps.json
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/01_Train/bin/Debug/net8.0/01_Train.runtimeconfig.json
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/01_Train/bin/Debug/net8.0/01_Train.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/01_Train/bin/Debug/net8.0/01_Train.pdb
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/01_Train/obj/Debug/net8.0/01_Train.GeneratedMSBuildEditorConfig.editorconfig
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/01_Train/obj/Debug/net8.0/01_Train.AssemblyInfoInputs.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/01_Train/obj/Debug/net8.0/01_Train.AssemblyInfo.cs
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/01_Train/obj/Debug/net8.0/01_Train.csproj.CoreCompileInputs.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/01_Train/obj/Debug/net8.0/01_Train.sourcelink.json
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/01_Train/obj/Debug/net8.0/01_Train.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/01_Train/obj/Debug/net8.0/refint/01_Train.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/01_Train/obj/Debug/net8.0/01_Train.pdb
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/01_Train/obj/Debug/net8.0/01_Train.genruntimeconfig.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/01_Train/obj/Debug/net8.0/ref/01_Train.dll
