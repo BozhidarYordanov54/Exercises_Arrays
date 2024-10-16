@@ -1,0 +1,15 @@
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/03_Array-Rotation/bin/Debug/net8.0/03_Array-Rotation
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/03_Array-Rotation/bin/Debug/net8.0/03_Array-Rotation.deps.json
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/03_Array-Rotation/bin/Debug/net8.0/03_Array-Rotation.runtimeconfig.json
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/03_Array-Rotation/bin/Debug/net8.0/03_Array-Rotation.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/03_Array-Rotation/bin/Debug/net8.0/03_Array-Rotation.pdb
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/03_Array-Rotation/obj/Debug/net8.0/03_Array-Rotation.GeneratedMSBuildEditorConfig.editorconfig
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/03_Array-Rotation/obj/Debug/net8.0/03_Array-Rotation.AssemblyInfoInputs.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/03_Array-Rotation/obj/Debug/net8.0/03_Array-Rotation.AssemblyInfo.cs
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/03_Array-Rotation/obj/Debug/net8.0/03_Array-Rotation.csproj.CoreCompileInputs.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/03_Array-Rotation/obj/Debug/net8.0/03_Array-Rotation.sourcelink.json
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/03_Array-Rotation/obj/Debug/net8.0/03_Array-Rotation.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/03_Array-Rotation/obj/Debug/net8.0/refint/03_Array-Rotation.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/03_Array-Rotation/obj/Debug/net8.0/03_Array-Rotation.pdb
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/03_Array-Rotation/obj/Debug/net8.0/03_Array-Rotation.genruntimeconfig.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/03_Array-Rotation/obj/Debug/net8.0/ref/03_Array-Rotation.dll
