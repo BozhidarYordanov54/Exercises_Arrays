@@ -1,0 +1,15 @@
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/02_Zig-Zag-Arrays/bin/Debug/net8.0/02_Zig-Zag-Arrays
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/02_Zig-Zag-Arrays/bin/Debug/net8.0/02_Zig-Zag-Arrays.deps.json
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/02_Zig-Zag-Arrays/bin/Debug/net8.0/02_Zig-Zag-Arrays.runtimeconfig.json
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/02_Zig-Zag-Arrays/bin/Debug/net8.0/02_Zig-Zag-Arrays.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/02_Zig-Zag-Arrays/bin/Debug/net8.0/02_Zig-Zag-Arrays.pdb
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/02_Zig-Zag-Arrays/obj/Debug/net8.0/02_Zig-Zag-Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/02_Zig-Zag-Arrays/obj/Debug/net8.0/02_Zig-Zag-Arrays.AssemblyInfoInputs.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/02_Zig-Zag-Arrays/obj/Debug/net8.0/02_Zig-Zag-Arrays.AssemblyInfo.cs
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/02_Zig-Zag-Arrays/obj/Debug/net8.0/02_Zig-Zag-Arrays.csproj.CoreCompileInputs.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/02_Zig-Zag-Arrays/obj/Debug/net8.0/02_Zig-Zag-Arrays.sourcelink.json
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/02_Zig-Zag-Arrays/obj/Debug/net8.0/02_Zig-Zag-Arrays.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/02_Zig-Zag-Arrays/obj/Debug/net8.0/refint/02_Zig-Zag-Arrays.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/02_Zig-Zag-Arrays/obj/Debug/net8.0/02_Zig-Zag-Arrays.pdb
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/02_Zig-Zag-Arrays/obj/Debug/net8.0/02_Zig-Zag-Arrays.genruntimeconfig.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/02_Zig-Zag-Arrays/obj/Debug/net8.0/ref/02_Zig-Zag-Arrays.dll
