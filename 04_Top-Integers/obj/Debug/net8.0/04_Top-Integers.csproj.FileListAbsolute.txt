@@ -1,0 +1,15 @@
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/04_Top-Integers/bin/Debug/net8.0/04_Top-Integers
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/04_Top-Integers/bin/Debug/net8.0/04_Top-Integers.deps.json
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/04_Top-Integers/bin/Debug/net8.0/04_Top-Integers.runtimeconfig.json
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/04_Top-Integers/bin/Debug/net8.0/04_Top-Integers.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/04_Top-Integers/bin/Debug/net8.0/04_Top-Integers.pdb
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/04_Top-Integers/obj/Debug/net8.0/04_Top-Integers.GeneratedMSBuildEditorConfig.editorconfig
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/04_Top-Integers/obj/Debug/net8.0/04_Top-Integers.AssemblyInfoInputs.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/04_Top-Integers/obj/Debug/net8.0/04_Top-Integers.AssemblyInfo.cs
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/04_Top-Integers/obj/Debug/net8.0/04_Top-Integers.csproj.CoreCompileInputs.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/04_Top-Integers/obj/Debug/net8.0/04_Top-Integers.sourcelink.json
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/04_Top-Integers/obj/Debug/net8.0/04_Top-Integers.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/04_Top-Integers/obj/Debug/net8.0/refint/04_Top-Integers.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/04_Top-Integers/obj/Debug/net8.0/04_Top-Integers.pdb
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/04_Top-Integers/obj/Debug/net8.0/04_Top-Integers.genruntimeconfig.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/Exercises_Arrays/04_Top-Integers/obj/Debug/net8.0/ref/04_Top-Integers.dll

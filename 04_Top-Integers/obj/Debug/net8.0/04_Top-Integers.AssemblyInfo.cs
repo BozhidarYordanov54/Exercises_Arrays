@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("04_Top-Integers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+852ae5f4308ec02b6da309bc368604501bc24ad4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c359c098f4f374c83c49c03a8504c2691fc3b8e")]
 [assembly: System.Reflection.AssemblyProductAttribute("04_Top-Integers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("04_Top-Integers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
